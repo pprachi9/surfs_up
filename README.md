@@ -2,7 +2,7 @@
 
 ## Project Overview
 The motive for this analysis is to analyse the temperature patterns for the months of June and December, so as to evaluate the feasibility of year-round surf shops. The data was obtained after creating two separate queries for June and December each. 
-Python, Pandas, SQLite, SQLAlchemy and Flask application was used for this analysis.
+Python, Pandas, SQLite, SQLAlchemy and Flask application were used for this analysis.
 
 ## Resources 
 Data Sources: hawaii.sqlite
